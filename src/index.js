@@ -1,12 +1,12 @@
 import path from 'node:path';
-// import { PATH_DB } from './constants/contacts';
+import { PATH_DB } from './constants/contacts.js';
 import fs from 'node:fs';
+import { readContacts } from './utils/readContacts.js';
+import { createFakeContact } from './utils/createFakeContact.js';
 
 const testHello = 'Hello, World!';
 console.log(testHello);
-
-const cwdProcces = process.cwd();
-export const PATH_DBB = path.join(cwdProcces, 'src', 'db', 'db.json');
-
-const readContact = fs.readFileSync(PATH_DBB);
-console.log(readContact);
+// console.log(readContacts());
+const readData = readContacts();
+console.log(readData);
+// console.log(createFakeContact(2));

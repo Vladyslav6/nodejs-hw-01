@@ -1,79 +1,23 @@
 [
   {
-    "id": "e08e53f5-34b3-4823-a3c1-23f94bd2720c",
-    "name": "Clinton Heaney",
-    "phone": "(372) 272-9452 x491",
-    "email": "Sarina2@hotmail.com",
-    "job": "Internal Operations Engineer"
+    "id": "b1ae84f7-068c-402f-bda7-4ed100621690",
+    "name": "Daisy Steuber",
+    "phone": "1-578-210-8262 x29505",
+    "email": "Yadira_Mitchell@hotmail.com",
+    "job": "Global Integration Technician"
   },
   {
-    "id": "8d7bc2ff-3118-4386-b800-628b254ac98d",
-    "name": "Laurence Green",
-    "phone": "1-270-221-2728 x400",
-    "email": "Keyon_Lockman@gmail.com",
-    "job": "Regional Security Developer"
+    "id": "7bda49c9-8001-4400-8074-b623a18f504a",
+    "name": "Mr. Mack Kuhn",
+    "phone": "1-925-804-6306",
+    "email": "Marco97@hotmail.com",
+    "job": "National Integration Facilitator"
   },
   {
-    "id": "e1225f3a-397c-44c2-be6c-28233fd15ce0",
-    "name": "Lindsay Mraz V",
-    "phone": "469-973-3473 x684",
-    "email": "Hailey23@gmail.com",
-    "job": "Product Configuration Orchestrator"
-  },
-  {
-    "id": "d9a6a157-345b-4301-83e6-1f8c8301815e",
-    "name": "Mark Gulgowski",
-    "phone": "514-488-1440",
-    "email": "Violet.Koepp80@gmail.com",
-    "job": "Global Response Strategist"
-  },
-  {
-    "id": "58b4a6a7-5f52-4ac0-bbbc-5b670fc56f9e",
-    "name": "Marvin Kessler",
-    "phone": "799.670.0249",
-    "email": "Soledad39@yahoo.com",
-    "job": "Investor Brand Representative"
-  },
-  {
-    "id": "7b28900a-c611-4532-890b-e11b0e802d12",
-    "name": "Rudolph Welch",
-    "phone": "(861) 527-0510 x2681",
-    "email": "Isadore.Heller60@gmail.com",
-    "job": "Chief Markets Director"
-  },
-  {
-    "id": "adf45d8a-2a5f-4d51-8d6a-1222e09152f0",
-    "name": "Dr. Marcella Auer",
-    "phone": "1-929-357-5753 x4145",
-    "email": "Arden_Kozey@yahoo.com",
-    "job": "Lead Usability Facilitator"
-  },
-  {
-    "id": "43678027-aca7-4e69-bc23-8b987d4c708f",
-    "name": "Angel Strosin",
-    "phone": "(214) 621-1100",
-    "email": "Alford.Yost@yahoo.com",
-    "job": "Dynamic Accountability Director"
-  },
-  {
-    "id": "9940b06c-6cc9-45fc-a919-e7b6285931f4",
-    "name": "Gerard Turcotte",
-    "phone": "930.666.2483 x4732",
-    "email": "Freeman5@hotmail.com",
-    "job": "Senior Integration Consultant"
-  },
-  {
-    "id": "86342f7c-ffa9-4b4d-bcf1-7265411876c4",
-    "name": "Danny Block",
-    "phone": "(582) 443-0731 x64520",
-    "email": "Coby_Bergnaum@hotmail.com",
-    "job": "Product Integration Administrator"
-  },
-  {
-    "id": "95158207-9a02-4815-928c-ba7d5667f5ee",
-    "name": "Flora Rogahn",
-    "phone": "1-668-576-0942 x167",
-    "email": "Dario75@hotmail.com",
-    "job": "Regional Paradigm Developer"
+    "id": "39cea922-aa46-4920-9a02-27cc159aac07",
+    "name": "Jose McCullough",
+    "phone": "(501) 425-2251",
+    "email": "Roman_Beatty@yahoo.com",
+    "job": "Chief Applications Assistant"
   }
 ]

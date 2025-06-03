@@ -7,12 +7,17 @@ const generateContacts = async (number) => {
   // console.log(JSON.stringify(fakeNumber));
   // writeContacts(Buffer.from(JSON.stringify(fakeNumber)));
   // const fakeNumber = createFakeContact(number);
-
-  const users = faker.helpers.multiple(createFakeContact, {
-    count: number,
-  });
-  console.log(users);
-  writeContacts(users);
+  for (let i = 1; i<=number; i++){
+    await writeContacts(createFakeContact());
+    // console.log(writeContacts);
+  };
+//
+//   const users = faker.helpers.multiple(createFakeContact, {
+//     count: number,
+//   });
+//   console.log(users);
+//   writeContacts(users);
+  //
   // for (let i = 1; i <= number; i++) {
   //   const fakeNumber = createFakeContact();
   //   // writeContacts(JSON.stringify(fakeNumber));
@@ -24,4 +29,4 @@ const generateContacts = async (number) => {
   // }
 };
 
-generateContacts(4);
+generateContacts(5);
